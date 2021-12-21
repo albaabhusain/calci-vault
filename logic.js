@@ -65,7 +65,7 @@ for(item of buttons){
             screenVal=eval(screenVal);
          let screenRes=screenVal;
             screen.value=screenVal;
-            if(screenRes=='111'){
+            if(screenRes=='1234'){
                 magic();
 
             }
@@ -95,6 +95,6 @@ for(item of buttons){
  calci();
 
 function magic(){
-    alert('going to castleburg.in');
-    location.assign('https://castleburg.in');
+    alert('going to Cloud Library');
+    location.assign('https://calci-vault.web.app/');
 }
